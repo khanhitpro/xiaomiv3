@@ -1,0 +1,11 @@
+    apks_to_install="
+      voice.apk 
+      key.apk 
+      file.apk 
+      store.apk 
+      down.apk 
+      youtobe.apk 
+      xemvtv.apk 
+      getout.apk 
+      phim4k.apk
+      allapp.apk"
